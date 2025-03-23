@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/02_MySQL/00_answer/emp/01_DQL_Question.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/02_MySQL/02_KYEONGBIN/06_GROUP_BY_HAVING_.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/02_MySQL/02_KYEONGBIN/Practice/Practice_1.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/02_MySQL/02_KYEONGBIN/Practice/Practice_2.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/02_MySQL/02_KYEONGBIN/Practice/Practice_3.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/02_MySQL/02_KYEONGBIN/Practice/Practice_4.sql" dialect="MySQL" />
+  </component>
+</project>
