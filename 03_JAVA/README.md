@@ -1,4 +1,3 @@
-# 3am 7eam Repository
 
 # Issue default Format
 
@@ -10,4 +9,3 @@
 
 ## Expected result
 -  Result description
-
